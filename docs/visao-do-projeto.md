@@ -1,4 +1,4 @@
-Nome do projeto: [a definir]
+Nome do projeto: Agendaap
 
 Objetivo:
 Criar um aplicativo de agendamento para profissionais que
